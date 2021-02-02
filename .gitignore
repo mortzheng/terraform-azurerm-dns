@@ -1,0 +1,12 @@
+.idea/
+/.gradle/
+/build/
+*.iml
+/classes/
+*/src/dev/java/
+.DS_Store
+node_modules/
+aws.properties
+aws.credentials
+.terraform/
+terraform.tfstate.backup
